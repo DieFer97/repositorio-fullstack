@@ -287,3 +287,12 @@
     position: absolute;
     left: 0;
   }  
+
+  .profile-photo img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    border: 5px solid #333;
+  }
+  
+  
